@@ -1,0 +1,58 @@
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+.container{
+    margin:0 5% 0 5%;
+}
+.search{
+    background-color: #eeeeee;
+}
+.content{
+    margin-top:2px;
+}
+.searchbox{
+    margin-left: 38%;
+    width:25%;
+}
+.pad42{
+    margin-left: 42%;
+}
+.pad18{
+    margin-left: 17.5%;
+    margin-right:1.5%;
+}
+.pad15{
+    margin-left: 15%;
+}
+.content{
+    text-align: center;
+}
+.special-searches{
+    background-color: #7ee5da;
+    width:37%;
+    float:left;
+    padding: 1% 0 1% 0;
+}
+.links{
+    background-color: #70ccc2;
+    width:14.6%;
+    float:left;
+    padding: 0.55% 0 0.55% 0;
+    margin: 0 0.21% 0 0.21%;
+    font-size:small;
+}
+.email{
+    background-color: #62b3aa;
+    width:47.98%;
+    float:left;
+    padding: 0.15% 0 0.15% 0;
+    font-size:small;
+}
+p{
+    clear: both;
+    text-align: center;
+}
+.copyright{
+    font-size: small;
+}
