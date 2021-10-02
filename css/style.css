@@ -12,3 +12,7 @@ h2{
 ul,ol{
     list-style-position: inside;
 }
+li{
+    border:2px solid blue;
+    margin:0 450px 0 450px;
+}
