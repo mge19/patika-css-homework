@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family:Arial;
+}
+h1{
+    color:deeppink;
+}
+h2{
+    color:darkorchid
+}
+ul,ol{
+    list-style-position: inside;
+}
